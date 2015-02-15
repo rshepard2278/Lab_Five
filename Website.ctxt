@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Website()
+comment1.params=
+comment1.target=void\ displayChoices()
+comment2.params=
+comment2.target=void\ selectBase()
+comment3.params=
+comment3.target=java.lang.String\ getBase()
+comment3.text=\r\n\ @return\ the\ base\r\n
+comment4.params=
+comment4.target=boolean[]\ getFeatures()
+comment4.text=\r\n\ @return\ the\ features\r\n
+comment5.params=
+comment5.target=void\ selectFeatures()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\ (non-Javadoc)\r\n\ @see\ java.lang.Object\#toString()\r\n
+numComments=7
