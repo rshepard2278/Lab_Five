@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=customer\ site
+comment0.target=Invoice(Person,\ Website)
+comment1.params=
+comment1.target=void\ setPrices()
+comment2.params=
+comment2.target=void\ setBase()
+comment3.params=
+comment3.target=void\ setFeatures()
+comment4.params=
+comment4.target=void\ setTotal()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ (non-Javadoc)\r\n\ @see\ java.lang.Object\#toString()\r\n
+numComments=6
